@@ -1,0 +1,6 @@
+{
+  "name": "আদর্শলিপি (AdorshoLipi) - Bangla Unicode Font Creator",
+  "description": "A kid-friendly, open-source Bangla Unicode font creator that turns your hand-drawn letters into a valid, installable .TTF font file right in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
